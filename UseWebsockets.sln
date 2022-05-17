@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32421.90
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreWebsocketChatRoom", "UseWebsockets\CoreWebsocketChatRoom.csproj", "{90E446C0-3E6C-44AE-BDAF-73517955881A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiWithWebsocket", "WebApiWithWebsocket\WebApiWithWebsocket.csproj", "{8F7E0D13-12D7-46E8-A031-D61E0D27FB16}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{90E446C0-3E6C-44AE-BDAF-73517955881A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90E446C0-3E6C-44AE-BDAF-73517955881A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90E446C0-3E6C-44AE-BDAF-73517955881A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F7E0D13-12D7-46E8-A031-D61E0D27FB16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F7E0D13-12D7-46E8-A031-D61E0D27FB16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F7E0D13-12D7-46E8-A031-D61E0D27FB16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F7E0D13-12D7-46E8-A031-D61E0D27FB16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
